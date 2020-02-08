@@ -1,0 +1,27 @@
+Offline
+Online
+Login
+Online Sandbox Mode
+Offline Sandbox Mode
+Customize Character
+Return to Menu
+Catalog
+To Battle!
+Konotsu Gunner
+Out of Ammo!
+Low on Health!
+Low on Energy!
+You have died.
+Call for backup
+AK-47
+Shotgun
+Water hose
+Machine Gun
+Minigun
+Beta Shirt
+Generic Jacket
+Tanktop
+Standard
+Life Guard Outfit
+Maid Outfit
+Military Hat
